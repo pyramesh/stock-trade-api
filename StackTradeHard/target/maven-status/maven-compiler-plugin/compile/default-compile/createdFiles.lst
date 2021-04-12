@@ -1,0 +1,16 @@
+com\hackerrank\stocktrade\StackTradeHardApplication.class
+com\hackerrank\stocktrade\dto\ErrorMessage.class
+com\hackerrank\stocktrade\repository\TradeRepository.class
+com\hackerrank\stocktrade\dto\TradeDomain.class
+com\hackerrank\stocktrade\dto\TradeLowestHighiest.class
+com\hackerrank\stocktrade\service\StockTradeService.class
+com\hackerrank\stocktrade\service\StockTradeServiceImpl.class
+com\hackerrank\stocktrade\controller\OddEvenTest.class
+com\hackerrank\stocktrade\controller\ReverseStringTest.class
+com\hackerrank\stocktrade\SQLiteDialect.class
+com\hackerrank\stocktrade\dto\UserDomain.class
+com\hackerrank\stocktrade\repository\UserRepository.class
+com\hackerrank\stocktrade\dto\TradeConverter.class
+com\hackerrank\stocktrade\model\Trade.class
+com\hackerrank\stocktrade\controller\StockTradeApiRestController.class
+com\hackerrank\stocktrade\model\User.class
